@@ -1,2 +1,2 @@
-# DSPGuideOctaveCode
-Octave version of all the code snippets discussed in dspguide.com
+# Octave_Works
+This repository contains all the octave code files.
