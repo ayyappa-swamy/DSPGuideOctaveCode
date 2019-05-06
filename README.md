@@ -1,2 +1,2 @@
-# Octave_Works
-This repository contains all the octave code files.
+# DSPGuideOctave
+This branch contains the octave version of all the code snippets mentioned in dspguide.com
